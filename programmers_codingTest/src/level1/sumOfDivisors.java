@@ -16,6 +16,6 @@ public class sumOfDivisors {
 		int num1 = 12;
 		sumOfDivisors sumOfDivisors = new sumOfDivisors();
 		int n = sumOfDivisors.solution(num1);
-		System.out.println(n);		
+		System.out.println(n);	
 	}
 }
