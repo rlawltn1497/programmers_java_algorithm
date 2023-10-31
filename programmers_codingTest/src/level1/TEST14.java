@@ -33,8 +33,8 @@ public class TEST14 {
 		int a = 3;
 		int b = 12;
 		
-		TEST14 TEST12 = new TEST14();
-		int[] n = TEST12.solution(a,b);
+		TEST14 TEST14 = new TEST14();
+		int[] n = TEST14.solution(a,b);
 		System.out.println(Arrays.toString(n));
 	}
 }

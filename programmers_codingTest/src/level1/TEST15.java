@@ -36,8 +36,8 @@ public class TEST15 {
 		int a = 45;
 		int b = 125;
 		
-		TEST15 TEST12 = new TEST15();
-		int n = TEST12.solution(a);
+		TEST15 TEST15 = new TEST15();
+		int n = TEST15.solution(a);
 		System.out.println(n);
 	}
 }
