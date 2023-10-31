@@ -21,7 +21,7 @@ public class TheSidesOfPAndYInString {
 
 	public static void main(String[] args) {
 		String s = "pPoooyY";
-//		String s1 = "pyY";
+		String s1 = "pyY";
 		TheSidesOfPAndYInString TheSidesOfPAndYInString = new TheSidesOfPAndYInString();
 		boolean n = TheSidesOfPAndYInString.solution(s);
 		System.out.println(n);
