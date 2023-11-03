@@ -23,7 +23,7 @@ public class TEST18 {
 
 	public static void main(String[] args) {
 		String s = "banana";
-		String s1 = "foobar";
+		// String s1 = "foobar";
 
 		TEST18 TEST18 = new TEST18();
 		int[] n = TEST18.solution(s);
