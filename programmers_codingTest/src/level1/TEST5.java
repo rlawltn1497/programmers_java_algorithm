@@ -15,7 +15,7 @@ public class TEST5 {
     }
 
 	public static void main(String[] args) {
-		String str = "qwer";
+		// String str = "qwer";
 		String str1 = "abcde";
 		TEST5 TEST5 = new TEST5();
 		String n = TEST5.solution(str1);  
